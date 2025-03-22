@@ -1,5 +1,3 @@
----
-
 ### Suggested Repository Name
 **TeslaVision3D**
 
